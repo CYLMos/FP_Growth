@@ -1,7 +1,7 @@
 FP_Growth簡單範例
 =
 
-#注意事項
+# 注意事項
 
 撰寫時並未考慮效能問題，有需要請依自己想法進行最佳化
 
@@ -10,7 +10,7 @@ FP_Growth簡單範例
 
 IDE使用的是IntelliJ(JetBrains的產品能不用嗎？)
 
-#操作說明
+# 操作說明
 
 參數 -d : 後面接資料庫路徑，ex : -d /home/user/data
 參數 -s : 後面接最小支持度，ex : -s 3
@@ -18,6 +18,6 @@ IDE使用的是IntelliJ(JetBrains的產品能不用嗎？)
 執行範例(最小支持度為3)：
 java Main -d /home/user/data -s 3
 
-#備註
+# 備註
 
 如果覺得有Bug，請回報給我，謝謝！
